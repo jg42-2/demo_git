@@ -4,3 +4,6 @@ def factorial(n):
     return n * factorial(n-1)
 print(factorial(5))
 print("Hello world")
+
+for i in range(0, 10):
+    print("c papu")
